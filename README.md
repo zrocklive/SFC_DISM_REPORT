@@ -1,0 +1,1 @@
+Use this tool to run SFC scans of windows systems as well as dism checks and repairs. Then after its all said and done it generates a html report for viewing.
